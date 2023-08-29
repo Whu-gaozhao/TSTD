@@ -13,6 +13,9 @@ with 2D semantic information, the extracted features are utilized in the 3D deco
 
 
 ### A visual depiction of the original tokens and cross tokens:
+The original tokens from the current point cloud and the introduced learnable external tokens can easily interacted with each other for multi-level
+context feature extracting in a transformer-based framework. OIT means original information tokens. CIT means cross information tokens.
+
 ![image](https://github.com/Whu-gaozhao/TSTD/blob/main/resources/tokens_3.0.png)
 
 
