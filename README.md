@@ -8,6 +8,5 @@ with 2D semantic information, the extracted features are utilized in the 3D deco
 
 ### A visual depiction of the original tokens and cross tokens:
 ![image](https://github.com/Whu-gaozhao/TSTD/blob/main/resources/tokens_3.0.png)
- OIT means original information tokens.
-CIT means cross information tokens.
+OIT means original information tokens.CIT means cross information tokens.
 
