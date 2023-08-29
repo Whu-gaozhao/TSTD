@@ -11,6 +11,13 @@ with 2D semantic information, the extracted features are utilized in the 3D deco
 <img src="https://github.com/Whu-gaozhao/TSTD/blob/main/resources/tokens_3.0.png" 
 </div>
 
+### The overall architecture of Trans-Decoder
+![image](https://github.com/Whu-gaozhao/TSTD/blob/main/resources/trans-docoder_6.0.png)
+The Trans-Decoder model comprises two pivotal components, namely original attention and cross attention. The attention loss L is designed to constrain on Xcross . ORE refers to the
+original embedding operation, while CRE denotes the cross embedding operation.
+
+### visualization results
+!image[https://github.com/Whu-gaozhao/TSTD/blob/main/resources/vis.png]
 
 
 
