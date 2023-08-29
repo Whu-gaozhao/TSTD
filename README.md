@@ -7,6 +7,10 @@ which it learns features. The output of the 2D network is the per-pixel uncertai
 with 2D semantic information, the extracted features are utilized in the 3D decoder with attention loss and segmentation loss.
 
 ### A visual depiction of the original tokens and cross tokens:
-![image](https://github.com/Whu-gaozhao/TSTD/blob/main/resources/tokens_3.0.png)
+<div align=center>
+<img src="[https://github.com/BIT-MJY/Active-SLAM-Based-on-Information-Theory/blob/master/img/1-2.png](https://github.com/Whu-gaozhao/TSTD/blob/main/resources/tokens_3.0.png)https://github.com/Whu-gaozhao/TSTD/blob/main/resources/tokens_3.0.png" width="180" height="105"> width="180" height="105"/>
+</div>
 OIT means original information tokens.CIT means cross information tokens.
+
+
 
