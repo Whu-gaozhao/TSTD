@@ -17,7 +17,7 @@ The Trans-Decoder model comprises two pivotal components, namely original attent
 original embedding operation, while CRE denotes the cross embedding operation.
 
 ### visualization results
-!image[https://github.com/Whu-gaozhao/TSTD/blob/main/resources/vis.png]
+![image](https://github.com/Whu-gaozhao/TSTD/blob/main/resources/vis.png)
 
 
 
