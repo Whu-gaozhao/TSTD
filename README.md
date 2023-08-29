@@ -26,4 +26,5 @@ python tools\train.py configs\mve_seg\mve_seg_8x2_cosine_100e_scannet_seg-3d-23d
 ```
 # Results
 ### ScanNet
+![image](https://github.com/Whu-gaozhao/TSTD/blob/main/resources/result.png)
 
