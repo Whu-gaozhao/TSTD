@@ -1,5 +1,5 @@
-# TSTD
-
+# TSTD:A Cross-modal Two Stages Network with New Trans-Decoder for Point Cloud Semantic Segmentation
+Official implementation of the paper "TSTD:A Cross-modal Two Stages Network with New Trans-Decoder for Point Cloud Semantic Segmentation" by Zhao Gao, Li Yan , Hong Xie , Pengcheng Wei , Hao Wu , Jian Wang.
 ### Introduction
 In this study, we present our novel TSTD model, which exhibits remarkable efficacy and efficiency, addressing the constraints encountered in prior research. Diverging from existing approaches that exclusively employ either geometry or RGB data for semantic segmentation, our proposed methodology incorporates both modalities within a unified, two-stage network architecture. This integrative approach enables the effective fusion of heterogeneous data features,
 leading to notable enhancements in semantic segmentation outcomes. Moreover, we have devised an innovative and efficient decoder utilizing a lightweight transformer module
