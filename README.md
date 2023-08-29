@@ -19,4 +19,10 @@ original embedding operation, while CRE denotes the cross embedding operation.
 # Installation
 Our code is based on mmdetection3d. For install and data preparation, please refer to the guidelines in mmdetection3d https://github.com/open-mmlab/mmdetection3d.
 
+# Training
+Example:
+python tools\train.py configs\mve_seg\mve_seg_8x2_cosine_100e_scannet_seg-3d-23dim.py
+
+# Results
+### ScanNet
 
