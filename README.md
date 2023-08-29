@@ -17,6 +17,6 @@ original embedding operation, while CRE denotes the cross embedding operation.
 ![image](https://github.com/Whu-gaozhao/TSTD/blob/main/resources/vis.png)
 
 # Installation
-### Requirements
+Our code is based on mmdetection3d. For install and data preparation, please refer to the guidelines in mmdetection3d https://github.com/open-mmlab/mmdetection3d.
 
 
