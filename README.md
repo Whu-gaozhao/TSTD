@@ -1,5 +1,7 @@
 # TSTD
-
+### Introduction
+In this study, we present our novel TSTD model, which exhibits remarkable efficacy and efficiency, addressing the constraints encountered in prior research. Diverging from existing approaches that exclusively employ either geometry or RGB data for semantic segmentation, our proposed methodology incorporates both modalities within a unified, two-stage network architecture. This integrative approach enables the effective fusion of heterogeneous data features,
+leading to notable enhancements in semantic segmentation outcomes. Moreover, we have devised an innovative and efficient decoder utilizing a lightweight transformer module
 ### The overall architecture of TSTD:
 ![image](https://github.com/Whu-gaozhao/TSTD/blob/main/resources/architecture_7.0.png)
 Network overview: our architecture consists of a 2D and a 3D components. The 2D component takes several RGB multi-view images as input, from
