@@ -1,0 +1,1 @@
+python tools/test.py configs//mve_seg/pt_seg_8x2_cosine_200e_scannet_seg-3d-23dim.py  work_dirs/pt_seg_8x2_cosine_200e_scannet_seg-3d-23dim/best_miou_epoch_135.pth  --format-only --eval-options txtfile_prefix=test_submission/
