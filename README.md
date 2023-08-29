@@ -45,3 +45,6 @@ python tools\train.py configs\mve_seg\mve_seg_8x2_cosine_100e_scannet_seg-3d-23d
 
 # Acknowledgement
 This reposity is based on the MMDetection3d https://github.com/open-mmlab/mmdetection3d repository. Thanks for their contributions to the community.
+
+# Citation
+If you find this repository/work helpful in your research, welcome to cite the paper. This paper has been included in PRCV2023, and you are welcome to cite it then.
