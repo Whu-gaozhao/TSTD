@@ -21,9 +21,9 @@ Our code is based on mmdetection3d. For install and data preparation, please ref
 
 # Training
 Example:
-'''python
+```python
 python tools\train.py configs\mve_seg\mve_seg_8x2_cosine_100e_scannet_seg-3d-23dim.py
-'''
+```
 # Results
 ### ScanNet
 
